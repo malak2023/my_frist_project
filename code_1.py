@@ -2,4 +2,6 @@ x = ["*"]
 for i in range(10):
     print(x)
     x.append("*")
-print("star tree")
+
+for x in range(10):
+	print('welcome to smart people group')
